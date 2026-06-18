@@ -10,3 +10,6 @@ obj/
 
 # Archivos .tmp en cualquier subdirectorio
 **/* .tmp
+
+
+.env
