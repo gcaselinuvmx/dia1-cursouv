@@ -13,3 +13,7 @@ obj/
 
 
 .env
+
+notas-personales.txt
+
+secrets*.txt
