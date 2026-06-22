@@ -11,7 +11,7 @@ obj/
 # Archivos .tmp en cualquier subdirectorio
 **/* .tmp
 
-
+.vs
 .env
 
 notas-personales.txt
